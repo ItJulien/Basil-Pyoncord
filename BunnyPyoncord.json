@@ -1,7 +1,7 @@
 {
     "spec": 1,
     "name": "Deltarune",
-    "previewText": "You peer into the darkness...",
+    "previewText": "LIGHT and DARK",
     "main": {
         "ggsans-Normal": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/greater-determination-sans.ttf",
         "ggsans-NormalItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
