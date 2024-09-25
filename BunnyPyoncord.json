@@ -1,0 +1,23 @@
+{
+    "spec": 1,
+    "name": "Deltarune",
+    "previewText": "You peer into the darkness...",
+    "main": {
+        "ggsans-Normal": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/greater-determination-sans.ttf",
+        "ggsans-NormalItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
+        "ggsans-Bold": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
+        "ggsans-ExtraBold": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
+        "ggsans-Medium": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/greater-determination-sans.ttf",
+        "ggsans-MediumItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
+        "ggsans-Semibold": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
+        "NotoSans-Bold": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf",
+        "NotoSans-Medium": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf",
+        "NotoSans-Normal": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/greater-determination-sans.ttf",
+        "NotoSans-NormalItalic": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/illusionserif-bold-italic.ttf",
+        "SourceCodePro-Semibold": "https://github.com/ItJulien/Basil-Pyoncord/raw/main/jl-bitmap-bold.ttf"
+    }
+}
